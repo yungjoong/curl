@@ -310,6 +310,7 @@ Features testable here are:
 - `getrlimit`
 - `GnuTLS`
 - `GSS-API`
+- `HSTS`
 - `HTTP-auth`
 - `http/2`
 - `idn`
