@@ -357,6 +357,8 @@ CURLWARNING(_curl_easy_getinfo_err_curl_off_t,
    (option) == CURLOPT_DEBUGDATA ||                                           \
    (option) == CURLOPT_FNMATCH_DATA ||                                        \
    (option) == CURLOPT_HEADERDATA ||                                          \
+   (option) == CURLOPT_HSTSREADDATA ||                                        \
+   (option) == CURLOPT_HSTSWRITEDATA ||                                       \
    (option) == CURLOPT_INTERLEAVEDATA ||                                      \
    (option) == CURLOPT_IOCTLDATA ||                                           \
    (option) == CURLOPT_OPENSOCKETDATA ||                                      \
